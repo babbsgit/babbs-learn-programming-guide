@@ -1,1 +1,1 @@
-# babbs-learn-programming-guide
+# babbs-learn-what-to-learn
